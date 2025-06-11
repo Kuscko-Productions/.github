@@ -1,4 +1,4 @@
-# Kuscko Production's GitHub Organization
+# Kuscko Production's
 ## Empowering Your Vision Through Expert Digital Solutions
 Welcome to the official GitHub organization for [Your Company Name]! We are a dedicated computer services company committed to transforming your business challenges into powerful digital advantages. We don't just build technology; we craft precise solutions that drive your success, enhance your operations, and secure your future.
 
