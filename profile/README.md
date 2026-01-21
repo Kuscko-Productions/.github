@@ -16,6 +16,3 @@ This GitHub organization serves as a transparent window into some of our public 
 
 ## Ready to Transform Your Digital Landscape?
 Let's discuss how our expertise can drive your organization forward. We're here to turn your challenges into opportunities.
-
-- **Visit Our Website**: https://www.kusckoproductions.com
-- **Connect With Us**: https://www.kusckoproductions.com/contact
